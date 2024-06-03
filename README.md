@@ -1,9 +1,13 @@
 ### Mekie mano (a) de boa ?
-
 Bem vindo ao meu perfil, explore um pouco se estiver interesado chama no privado.
+<br>
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabio.kapa/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-kapa-37b9a930a/)
+[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-kapa-37b9a930a/)
+<br>
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiokapa&show_icons=true&theme=dracula)
 ## Tecnologias 
-
 <div style="display: inline_block"> <br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -17,6 +21,5 @@ Bem vindo ao meu perfil, explore um pouco se estiver interesado chama no privado
 
 
 ##### Actualmente Estou aprendendo Inglês.
-
 
 Nunca devemos parar de explorar, e o fim da nossas exploracão será chegar onde começamos e conhecer o lugar pela primeira vez.
