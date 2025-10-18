@@ -1,10 +1,12 @@
 ## Informação Publica 
 Meu nome é Fabio Manuel Kapa Actualmente estou morando em Benguela\Angola sou um jovem que gosta de tecnologia e esportes, procuro ensinar o que eu aprendo sobre
-programação produzindo conteudo para o instagram e criando sempre projecto que resolvam algum problema.
+programação produzindo conteudo para o instagram e youtube criando.
 
 ## Redes Sociais 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabio.kapa/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-kapa-37b9a930a/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://https://youtu.be/u5l47KzxlyQ?si=XEg82wqsuklIpz3k)
+
 
 ## Tecnologias 
   <div style="display: inline_block"> <br/>
