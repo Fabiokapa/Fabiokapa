@@ -15,16 +15,20 @@ programação produzindo conteudo para o instagram e criando sempre projecto que
   <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img align="center" alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">    
+  <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">   
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </div> <br/>
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiokapa&show_icons=true&theme=onedark)
 <br>
 
 ## Actualmente
-Estou sempre estudando e aprendendo coisas novas relacionada tecnologia e programação.
+Estou sempre estudando e aprendendo coisas novas relacionada as tecnologias e desenvolvimento de software.
 <br/>
-Focado em aprender ingles.
+“Não deixaremos de explorar e, ao término da nossa exploração deveremos chegar ao ponto de partida e conhecer esse lugar pela primeira vez.” —  Thomas Stearns Eliot
 <br/>
 #sigafazendo
 #sigofazendo
