@@ -25,8 +25,6 @@ programação produzindo conteudo para o instagram e youtube criando.
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </div> <br/>
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiokapa&show_icons=true&theme=onedark)
-<br>
 
 ## Actualmente
 Estou sempre estudando e aprendendo coisas novas relacionada as tecnologias e desenvolvimento de software.
